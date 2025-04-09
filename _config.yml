@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yeqiang Wang"
-description              : "Tactile sensing and Embodied AI"
+description              : "AI4S & LLM"
 repository               : "WangYeQianger/wangyeqiang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yeqiang Wang(王业强)"
+  name             : "Yeqiang Wang"
   avatar           : "images/personal-photo.jpg"
   bio              : "Nwafu University"
   location         : "Yanglin China"
